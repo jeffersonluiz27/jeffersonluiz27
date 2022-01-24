@@ -37,7 +37,9 @@
 ### Me segue nas redes e vamos trocar figurinhas!!
 
 [![face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jeff27Silva) [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson.luiz27/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffluiz/) 
+
   
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 **jeffersonluiz27/jeffersonluiz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
