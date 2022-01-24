@@ -11,9 +11,9 @@
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="80px" margin="80px">
 
-💡 &nbsp; Estou atuamente estudando na Blue Edtech para me formar em fullStack Javascript. \
-💻 &nbsp;Atualmente estou trabalhando na area de infra estrutura onde já tenho 8 anos de experiência.\
-🎓&nbsp;Sou formado na Faculdade Pitagora de Belo Horizonte (Sistemas de Informação (Bacharel) - 2014).\
+💡 &nbsp;Estou estudando na Blue Edtech para me formar em fullStack Javascript. \
+💻 &nbsp;Atualmente trabalho na area de infra estrutura onde já tenho 8 anos de experiência. Mas meu objetivo agora é mudar para DEV\
+🎓 &nbsp;Sou formado na Faculdade Pitagora de Belo Horizonte (Sistemas de Informação (Bacharel) - 2014).\
 🌱 &nbsp;Buscando aprender mais sobre javascript principalmente no backend.\
 ✍️ &nbsp;No meu tempo livre gosto: de caminhar, jogar video game (Super Nintendo), conhecer lugares novos e viajar.\
 
