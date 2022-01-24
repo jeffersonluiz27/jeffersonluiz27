@@ -12,7 +12,7 @@
 
 💡 &nbsp;Estou estudando na Blue Edtech para me formar em fullStack Javascript. \
 💻 &nbsp;Trabalho na area de infra estrutura onde atuo a 5 anos. Mas meu objetivo agora é me tornar um DEV.\
-🎓 &nbsp;Sou formado na Faculdade Pitagora de Belo Horizonte (Sistemas de Informação (Bacharel) - 2014).\
+🎓 &nbsp;Sou formado na Faculdade Pitagoras de Belo Horizonte (Sistemas de Informação (Bacharel) - 2014).\
 🌱 &nbsp;Buscando aprender mais sobre javascript principalmente no backend.\
 ✍️ &nbsp;No meu tempo livre gosto: de caminhar, jogar video game (Super Nintendo), conhecer lugares novos e viajar.\
 
