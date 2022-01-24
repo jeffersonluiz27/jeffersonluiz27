@@ -7,7 +7,6 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 ##### ✨Estudante na BLUE EDTECH ✨
-##### Trabalhei durante 8 anos na area de infraestrutura e agora estou ingressando no mundo da progrmação!
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="100px" margin="100px">
 
