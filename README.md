@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 ##### ✨Estudante na BLUE EDTECH ✨
 
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="100px" margin="100px">
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="150px" margin="150px">
 
 💡 &nbsp;Estou estudando na Blue Edtech para me formar em fullStack Javascript. \
 💻 &nbsp;Trabalho na area de infra estrutura onde atuo a 5 anos. Mas meu objetivo agora é me tornar um DEV.\
