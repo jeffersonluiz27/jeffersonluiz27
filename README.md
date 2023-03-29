@@ -10,10 +10,10 @@
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" width="150px" margin="150px">
 
-💡 &nbsp;Estou estudando na Blue Edtech para me formar em fullStack Javascript. \
-💻 &nbsp;Trabalho na area de infra estrutura onde atuo a 5 anos. Mas meu objetivo agora é me tornar um DEV.\
+💡 &nbsp;Sou Formado na Blue Edtech em FullStack Javascript(2021). \
 🎓 &nbsp;Sou formado na Faculdade Pitagoras de Belo Horizonte (Sistemas de Informação (Bacharel) - 2014).\
-🌱 &nbsp;Buscando aprender mais sobre javascript principalmente no backend.\
+💻 &nbsp;Trabalhei na area de infra estrutura por 8 anos, e desde 2021 trabalho na area DEV. Hoje sou DevOps!!\
+🌱 &nbsp;Busco sempre aprender mais sobre javascript, minha linguagem de programação favorita.\
 ✍️ &nbsp;No meu tempo livre gosto de: caminhar, jogar video game (Super Nintendo), conhecer lugares novos e viajar.
 
 
@@ -32,6 +32,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![VueJS}(https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![Jupter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
