@@ -32,7 +32,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![VueJS}(https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![Jupter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
